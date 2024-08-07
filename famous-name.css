@@ -74,7 +74,7 @@ body {
     position: relative;
     cursor: pointer;
     color: #D4974E;
-    display : content;
+    display : contents;
 }
 
 .famous_name:hover .famous-names-popup {
