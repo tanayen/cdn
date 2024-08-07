@@ -65,11 +65,16 @@ body {
     font-size: 15px;
     line-height: 23px;
 }
+.famous_name_wrap {
+    display : flex;
+    flex-wrap: wrap;
+}
 
 .famous_name {
     position: relative;
     cursor: pointer;
     color: #D4974E;
+    display : content;
 }
 
 .famous_name:hover .famous-names-popup {
